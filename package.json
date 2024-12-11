@@ -1,5 +1,5 @@
 {
-  "homepage": "https://akash1012.github.io/saas_labs",
+  "homepage": "https://Akash1012.github.io/saas_labs",
   "name": "assign_sas",
   "private": true,
   "version": "0.0.0",
@@ -8,7 +8,7 @@
     "dev": "vite",
     "build": "vite build",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+    "deploy": "gh-pages -d dist",
     "lint": "eslint .",
     "preview": "vite preview"
   },
